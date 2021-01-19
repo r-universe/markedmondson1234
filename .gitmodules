@@ -3,3 +3,19 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "googleAnalyticsR"]
+	path = googleAnalyticsR
+	url = https://github.com/markedmondson1234/googleanalyticsr
+	shallow = true
+[submodule "googleAuthR"]
+	path = googleAuthR
+	url = https://github.com/markedmondson1234/googleauthr
+	shallow = true
+[submodule "googleCloudRunner"]
+	path = googleCloudRunner
+	url = https://github.com/markedmondson1234/googlecloudrunner
+	shallow = true
+[submodule "searchConsoleR"]
+	path = searchConsoleR
+	url = https://github.com/markedmondson1234/searchconsoler
+	shallow = true
