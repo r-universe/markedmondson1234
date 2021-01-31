@@ -4,5 +4,11 @@
     "url": "https://github.com/MarkEdmondson1234/googleAuthR",
     "via": ["googleAnalyticsR"],
     "from": "googleAnalyticsR"
+  },
+  {
+    "package": "googleAuthR",
+    "url": "https://github.com/MarkEdmondson1234/googleAuthR",
+    "via": ["googleCloudRunner"],
+    "from": "googleCloudRunner"
   }
 ]
