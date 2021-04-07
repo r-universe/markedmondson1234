@@ -19,3 +19,7 @@
 	path = searchConsoleR
 	url = https://github.com/markedmondson1234/searchconsoler
 	shallow = true
+[submodule "measurementProtocol"]
+	path = measurementProtocol
+	url = https://github.com/MarkEdmondson1234/measurementProtocol
+	shallow = true
