@@ -7,19 +7,24 @@
 	path = googleAnalyticsR
 	url = https://github.com/markedmondson1234/googleanalyticsr
 	shallow = true
+	registered = true
 [submodule "googleAuthR"]
 	path = googleAuthR
 	url = https://github.com/markedmondson1234/googleauthr
 	shallow = true
+	registered = true
 [submodule "googleCloudRunner"]
 	path = googleCloudRunner
 	url = https://github.com/markedmondson1234/googlecloudrunner
 	shallow = true
+	registered = true
 [submodule "searchConsoleR"]
 	path = searchConsoleR
 	url = https://github.com/markedmondson1234/searchconsoler
 	shallow = true
+	registered = true
 [submodule "measurementProtocol"]
 	path = measurementProtocol
 	url = https://github.com/MarkEdmondson1234/measurementProtocol
 	shallow = true
+	registered = false
