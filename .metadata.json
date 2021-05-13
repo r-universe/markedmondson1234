@@ -1,0 +1,22 @@
+[
+  {
+    "package": "googleAnalyticsR",
+    "oncran": true
+  },
+  {
+    "package": "googleAuthR",
+    "oncran": true
+  },
+  {
+    "package": "googleCloudRunner",
+    "oncran": true
+  },
+  {
+    "package": "measurementProtocol",
+    "oncran": true
+  },
+  {
+    "package": "searchConsoleR",
+    "oncran": true
+  }
+]
