@@ -28,3 +28,8 @@
 	url = https://github.com/markedmondson1234/searchconsoler
 	shallow = true
 	registered = true
+[submodule "gargle"]
+	path = gargle
+	url = https://github.com/r-lib/gargle
+	shallow = true
+	registered = false

@@ -1,5 +1,11 @@
 [
   {
+    "package": "gargle",
+    "url": "https://github.com/r-lib/gargle",
+    "via": ["googleCloudRunner"],
+    "from": "googleCloudRunner"
+  },
+  {
     "package": "googleAuthR",
     "url": "https://github.com/MarkEdmondson1234/googleAuthR",
     "via": ["googleCloudRunner"],
