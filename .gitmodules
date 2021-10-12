@@ -13,6 +13,11 @@
 	url = https://github.com/markedmondson1234/googleauthr
 	shallow = true
 	registered = true
+[submodule "googleCloudRunner"]
+	path = googleCloudRunner
+	url = https://github.com/markedmondson1234/googlecloudrunner
+	shallow = true
+	registered = true
 [submodule "measurementProtocol"]
 	path = measurementProtocol
 	url = https://github.com/markedmondson1234/measurementprotocol
