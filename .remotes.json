@@ -10,5 +10,11 @@
     "url": "https://github.com/MarkEdmondson1234/googleAuthR",
     "via": ["googleCloudRunner"],
     "from": "googleCloudRunner"
+  },
+  {
+    "package": "googlePubsubR",
+    "url": "https://github.com/andodet/googlePubsubR",
+    "via": ["googleCloudRunner"],
+    "from": "googleCloudRunner"
   }
 ]

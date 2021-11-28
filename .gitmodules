@@ -33,3 +33,8 @@
 	url = https://github.com/r-lib/gargle
 	shallow = true
 	registered = false
+[submodule "googlePubsubR"]
+	path = googlePubsubR
+	url = https://github.com/andodet/googlePubsubR
+	shallow = true
+	registered = false
