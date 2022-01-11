@@ -28,8 +28,3 @@
 	url = https://github.com/markedmondson1234/searchconsoler
 	shallow = true
 	registered = true
-[submodule "googlePubsubR"]
-	path = googlePubsubR
-	url = https://github.com/andodet/googlePubsubR
-	shallow = true
-	registered = false
