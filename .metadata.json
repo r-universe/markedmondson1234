@@ -12,10 +12,6 @@
     "oncran": true
   },
   {
-    "package": "measurementProtocol",
-    "oncran": true
-  },
-  {
     "package": "searchConsoleR",
     "oncran": true
   }
