@@ -13,9 +13,9 @@
 	url = https://github.com/markedmondson1234/googleauthr
 	shallow = true
 	registered = true
-[submodule "googleCloudRunner"]
-	path = googleCloudRunner
-	url = https://github.com/markedmondson1234/googlecloudrunner
+[submodule "searchConsoleR"]
+	path = searchConsoleR
+	url = https://github.com/markedmondson1234/searchconsoler
 	shallow = true
 	registered = true
 [submodule "measurementProtocol"]
@@ -23,8 +23,8 @@
 	url = https://github.com/markedmondson1234/measurementprotocol
 	shallow = true
 	registered = true
-[submodule "searchConsoleR"]
-	path = searchConsoleR
-	url = https://github.com/markedmondson1234/searchconsoler
+[submodule "googleCloudRunner"]
+	path = googleCloudRunner
+	url = https://github.com/markedmondson1234/googlecloudrunner
 	shallow = true
 	registered = true

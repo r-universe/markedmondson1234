@@ -8,7 +8,7 @@
     "oncran": true
   },
   {
-    "package": "googleCloudRunner",
+    "package": "searchConsoleR",
     "oncran": true
   },
   {
@@ -16,7 +16,7 @@
     "oncran": true
   },
   {
-    "package": "searchConsoleR",
+    "package": "googleCloudRunner",
     "oncran": true
   }
 ]
