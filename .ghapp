@@ -6,5 +6,5 @@
     "metadata": "read",
     "statuses": "write"
   },
-  "repositories": ["googleAnalyticsR", "googleAuthR", "googleCloudRunner"]
+  "repositories": ["googleAuthR", "googleAnalyticsR", "googleCloudRunner"]
 }
