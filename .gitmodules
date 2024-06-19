@@ -14,6 +14,3 @@
 [submodule "measurementProtocol"]
 	path = measurementProtocol
 	url = https://github.com/markedmondson1234/measurementprotocol
-[submodule "searchConsoleR"]
-	path = searchConsoleR
-	url = https://github.com/markedmondson1234/searchconsoler
