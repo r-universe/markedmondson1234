@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "googleAnalyticsR"]
-	path = googleAnalyticsR
-	url = https://github.com/markedmondson1234/googleanalyticsr
 [submodule "googleAuthR"]
 	path = googleAuthR
 	url = https://github.com/markedmondson1234/googleauthr
