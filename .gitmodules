@@ -5,9 +5,6 @@
 [submodule "googleAuthR"]
 	path = googleAuthR
 	url = https://github.com/markedmondson1234/googleauthr
-[submodule "googleCloudRunner"]
-	path = googleCloudRunner
-	url = https://github.com/markedmondson1234/googlecloudrunner
 [submodule "measurementProtocol"]
 	path = measurementProtocol
 	url = https://github.com/markedmondson1234/measurementprotocol
